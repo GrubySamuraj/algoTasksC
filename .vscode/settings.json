@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+    "cloudcode.duetAI.inlineSuggestions.enableAuto": false,
+    "files.associations": {
+        "ctype.h": "c",
+        "supportlib.h": "c"
+    }
+}
